@@ -1,0 +1,2 @@
+
+def findPrimeInverse(number, prime):
